@@ -5,5 +5,8 @@
 
 <h3 align="left">Follow the project :</h3>
 <p align="left">
-    <a href="https://github.com/orgs/Rustguard/projects?query=is%3Aopen" target="blank">Roadmap</a>
+    <ul>
+        <li><a href="https://github.com/orgs/Rustguard/projects?query=is%3Aopen" target="blank">Roadmap</a></li>
+        <li><a href="#" target="blank">Wiki (not implemented yet)</a></li>
+    </ul>
 </p>
